@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BankH</string>
+    <string name="UserAgent">HewkawArApplicationService (Android/1.0)</string>
 </resources>
