@@ -2,5 +2,6 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">api.hewkawar.xyz</domain>
+        <domain includeSubdomains="true">www.hewkawar.xyz</domain>
     </domain-config>
 </network-security-config>
