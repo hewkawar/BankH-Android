@@ -38,7 +38,7 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.webkit:webkit:1.8.0")
     implementation("androidx.core:core-ktx:1.7.0")
-    implementation("androidx.core:core:1.7.0")
+    implementation("androidx.core:core:1.13.1")
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
